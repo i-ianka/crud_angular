@@ -1,0 +1,39 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Caneta BIC Azul",
+      "price": 5.89
+    },
+    {
+      "id": 2,
+      "name": "Notebook Mac Pro",
+      "price": 12000.89
+    },
+    {
+      "id": 3,
+      "name": "Copo",
+      "price": 5000.89
+    },
+    {
+      "name": "Geladeira",
+      "price": "1913.34",
+      "id": 4
+    },
+    {
+      "name": "Veio do Form",
+      "price": "19.99",
+      "id": 5
+    },
+    {
+      "name": "Lizzy ",
+      "price": "19.99",
+      "id": 6
+    },
+    {
+      "name": "Gerlane",
+      "price": "34",
+      "id": 7
+    }
+  ]
+}
